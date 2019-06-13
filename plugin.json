@@ -1,0 +1,12 @@
+{
+    "ID": "89325b14cba04f98aaef2d59d60a0b8d",
+    "ActionKeyword": "test",
+    "Name": "PyTest",
+    "Description": "Test Python language in Wox plugin.",
+    "Author": "Zeroto521",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/Zeroto521/Wox.Plugin.PyTest",
+    "IcoPath": "images\\favicon.png",
+    "ExecuteFileName": "launcher.py"
+}
