@@ -2,7 +2,7 @@
     "ID": "89325b14cba04f98aaef2d59d60a0b8d",
     "ActionKeyword": "test",
     "Name": "PyTest",
-    "Description": "Test Python language in Wox plugin.",
+    "Description": "Test Python language in Wox plugin, record some information to local replace `print` function.",
     "Author": "Zeroto521",
     "Version": "0.0.1",
     "Language": "python",
